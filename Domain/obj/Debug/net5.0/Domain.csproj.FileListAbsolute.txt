@@ -1,0 +1,12 @@
+/Users/ryanfranklin/Reactivities/Domain/bin/Debug/net5.0/Domain.deps.json
+/Users/ryanfranklin/Reactivities/Domain/bin/Debug/net5.0/Domain.dll
+/Users/ryanfranklin/Reactivities/Domain/bin/Debug/net5.0/ref/Domain.dll
+/Users/ryanfranklin/Reactivities/Domain/bin/Debug/net5.0/Domain.pdb
+/Users/ryanfranklin/Reactivities/Domain/obj/Debug/net5.0/Domain.csprojAssemblyReference.cache
+/Users/ryanfranklin/Reactivities/Domain/obj/Debug/net5.0/Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ryanfranklin/Reactivities/Domain/obj/Debug/net5.0/Domain.AssemblyInfoInputs.cache
+/Users/ryanfranklin/Reactivities/Domain/obj/Debug/net5.0/Domain.AssemblyInfo.cs
+/Users/ryanfranklin/Reactivities/Domain/obj/Debug/net5.0/Domain.csproj.CoreCompileInputs.cache
+/Users/ryanfranklin/Reactivities/Domain/obj/Debug/net5.0/Domain.dll
+/Users/ryanfranklin/Reactivities/Domain/obj/Debug/net5.0/ref/Domain.dll
+/Users/ryanfranklin/Reactivities/Domain/obj/Debug/net5.0/Domain.pdb

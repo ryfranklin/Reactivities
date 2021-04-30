@@ -1,0 +1,15 @@
+/Users/ryanfranklin/Reactivities/Persistence/bin/Debug/net5.0/Persistence.deps.json
+/Users/ryanfranklin/Reactivities/Persistence/bin/Debug/net5.0/Persistence.dll
+/Users/ryanfranklin/Reactivities/Persistence/bin/Debug/net5.0/ref/Persistence.dll
+/Users/ryanfranklin/Reactivities/Persistence/bin/Debug/net5.0/Persistence.pdb
+/Users/ryanfranklin/Reactivities/Persistence/bin/Debug/net5.0/Domain.dll
+/Users/ryanfranklin/Reactivities/Persistence/bin/Debug/net5.0/Domain.pdb
+/Users/ryanfranklin/Reactivities/Persistence/obj/Debug/net5.0/Persistence.csprojAssemblyReference.cache
+/Users/ryanfranklin/Reactivities/Persistence/obj/Debug/net5.0/Persistence.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ryanfranklin/Reactivities/Persistence/obj/Debug/net5.0/Persistence.AssemblyInfoInputs.cache
+/Users/ryanfranklin/Reactivities/Persistence/obj/Debug/net5.0/Persistence.AssemblyInfo.cs
+/Users/ryanfranklin/Reactivities/Persistence/obj/Debug/net5.0/Persistence.csproj.CoreCompileInputs.cache
+/Users/ryanfranklin/Reactivities/Persistence/obj/Debug/net5.0/Persistence.csproj.CopyComplete
+/Users/ryanfranklin/Reactivities/Persistence/obj/Debug/net5.0/Persistence.dll
+/Users/ryanfranklin/Reactivities/Persistence/obj/Debug/net5.0/ref/Persistence.dll
+/Users/ryanfranklin/Reactivities/Persistence/obj/Debug/net5.0/Persistence.pdb
